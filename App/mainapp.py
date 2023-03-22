@@ -145,7 +145,7 @@ class LoginWindow(QMainWindow):
 
 def create_main_window():
     app = QApplication(sys.argv)
-    window = MainWindow()
+    window = LoginWindow()
 
     # show window
     window.show()
