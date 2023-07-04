@@ -1,0 +1,2 @@
+this package works with chess databases
+parse games and give info to the analyzer in ./core
